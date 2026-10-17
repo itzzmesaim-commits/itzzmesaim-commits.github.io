@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.playmates.app",
+    "sha256_cert_fingerprints": ["2F:BE:94:5F:A5:B5:F7:49:D6:1C:50:F0:FE:5B:FE:82:01:55:CE:6E:F4:3C:CD:32:70:D9:79:A7:6D:39:95:4E"]
+  }
+}]
